@@ -1,5 +1,5 @@
 #Making  an array
-arr  = (2, 5, 1, 2, 3)
+arr  = [2, 5, 1, 2, 3]
 def bubble_sort(arr):
     n = len(arr)
     for i in range(n):
